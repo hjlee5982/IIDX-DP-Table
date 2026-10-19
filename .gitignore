@@ -1,0 +1,6 @@
+# Keep GitHub Pages repo limited to the published board.
+*
+!/.gitignore
+!/README.md
+!/index.html
+!/dp_tier_board.html
